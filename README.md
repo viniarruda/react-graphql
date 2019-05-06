@@ -2,7 +2,7 @@
 
 React + Redux + axios
 
-Example using graphql query with React without Apollo
+Example using graphql query (Github api v4) with React
 
 ## Run the project
 
